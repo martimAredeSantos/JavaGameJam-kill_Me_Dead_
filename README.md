@@ -10,7 +10,7 @@ Main Features
 
 ![2 jgj](https://github.com/martimAredeSantos/JavaGameJam23_24-kill_Me_Dead_/assets/147712420/11b01351-489c-44d6-95fc-c027c8856ffa)
 
-# Controls:
+# Controls: 
 
 * Left and Right Arrows - Move character
 * Space - Shoot
