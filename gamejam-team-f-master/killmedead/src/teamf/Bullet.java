@@ -61,7 +61,7 @@ public class Bullet {
             return true;
         }
 
-        return false;
+        return false;    
     }
 
     public void delete() {
